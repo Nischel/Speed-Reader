@@ -1,4 +1,9 @@
 # Speed-Reader
-Kleines Speed-Reading Tool
+Kleines Speed-Reading Tool basierend auf Qt.
 
-Testtesttest
+Das Projekt im Qt Creator laden und dort kompilieren.
+
+Alternativ geht auch
+
+qmake Speedreader.pro
+make
